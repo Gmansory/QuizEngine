@@ -1,0 +1,12 @@
+{
+  "name": "Quiz",
+  "version": "0.0.1",
+  "description": "A quiz Engine for Website",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "gulp": "",
+    "gulp-livereload": "",
+    "gulp-notify": "",
+    "gulp-sass": "^2.2.0"
+  }
+}

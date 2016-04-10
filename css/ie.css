@@ -1,0 +1,17 @@
+.ie8 .carousel__column__article {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #8D8F8E; }
+
+.ie8 a.quickLinks {
+  background: #ed9424;
+  padding: 10px; }
+
+.ie8 nav a:after {
+  display: none; }
+
+.ie8 nav a:hover {
+  background: #fff;
+  color: #000; }
+  .ie8 nav a:hover a:after {
+    display: none; }
